@@ -1,4 +1,4 @@
-# Clite
+# AF-XLiteEx
 A Balancing charge extended board for USB charging FrSky Transmitter Taranis X-Lite
 
 ## Warning
