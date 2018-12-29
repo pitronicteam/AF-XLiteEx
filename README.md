@@ -17,10 +17,10 @@ LED-off:Complete
 
 ## How to use
 Soldering wires to connect the charge board with motherboard.Follow the pictures below.
-(photo1)
-(photo2)
+(battery.jpg)
+(LED.jpg)
 Use hot glue to solid the LED.
-(photo3)
+(power-in.jpg)
 
 ## Note
 The files we provided is for your own to use. DO NOT use for business.
