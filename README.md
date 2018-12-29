@@ -3,6 +3,7 @@ Balance charge board modification for X-Lite
 
 ## Warning
 This modification may cause your warranty certificate to be unavailable.
+
 Pleases do this at your own risk.
 
 ## Parameters
@@ -23,13 +24,13 @@ Pleases do this at your own risk.
 (power-in.jpg)
 
 ## Note
-*  The files we provided is for your own to use. DO NOT use for business.
+The files we provided is for your own to use. DO NOT use for business.
 
-*  For business negotiation, please contact us：
+For business negotiation, please contact us：
 
-*  QQ:1040730319
+QQ:1040730319
 
-*  TG:DusKing Jiang
+TG:DusKing Jiang
 
 ## Author
 
