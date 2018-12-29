@@ -18,10 +18,14 @@ Pleases do this at your own risk.
 
 ## How to use
 *  Soldering wires to connect the charge board with motherboard.Follow the pictures below.
-(battery.jpg)
-(LED.jpg)
+
+![battery](photo/battery.jpg?raw=true "battery")
+
+![LED](photo/LED.jpg?raw=true "LED")
+
 *  Use hot glue to solid the LED.
-(power-in.jpg)
+
+![power-in](photo/power-in.jpg?raw=true "power-in")
 
 ## Note
 The files we provided is for your own to use. DO NOT use for business.
