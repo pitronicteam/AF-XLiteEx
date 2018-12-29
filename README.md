@@ -1,4 +1,4 @@
-# Clite-project
+# Clite
 Balance charge board modification for X-Lite
 
 ## Warning
