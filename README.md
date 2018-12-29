@@ -1,10 +1,8 @@
 # AF-XLiteEx
-A Balancing charge extended board for USB charging FrSky Transmitter Taranis X-Lite
+A Balancing charge extended board, designed for USB charging _FrSky Transmitter Taranis X-Lite_ radio controller.
 
 ## Warning
-This modification will lose your warranty.
-
-Do this at your own risks.
+This modification will lose your warranty, Do this at your own risks.
 
 ## Parameters
 *  Input voltage: 5V
