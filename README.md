@@ -8,8 +8,8 @@ Pleases do this at your own risk.
 
 ## Parameters
 *  Input voltage: 5V
-*  Input current:0.5~2A
-*  Input power:10A(max)
+*  Input current: 0.5~2A
+*  Input power: 10A(max)
 *  Charging current: 1.2A
 *  Balance current: 60mA
 
