@@ -1,10 +1,10 @@
 # Clite
-Balance charge board modification for X-Lite
+A Balancing charge extended board for USB charging FrSky Transmitter Taranis X-Lite
 
 ## Warning
-This modification may cause your warranty certificate to be unavailable.
+This modification will lose your warranty.
 
-Pleases do this at your own risk.
+Do this at your own risks.
 
 ## Parameters
 *  Input voltage: 5V
@@ -17,7 +17,7 @@ Pleases do this at your own risk.
 *  LED-off:Complete
 
 ## How to use
-*  Soldering wires to connect the charge board with motherboard.Follow the pictures below.
+*  Soldering wires to connect the charge board with X-Lite motherboard. Follow the pictures below:
 
 ![battery](photo/battery.jpg?raw=true "battery")
 
@@ -28,11 +28,11 @@ Pleases do this at your own risk.
 ![power-in](photo/power-in.jpg?raw=true "power-in")
 
 ## Note
-The files we provided is for your own to use. DO NOT use for business.
+The files is for personal use only,  please contact us for commercial license.
 
 For business negotiation, please contact us：
 
-QQ:1040730319
+QQ:1040730319 or email to 1040730319@qq.com 
 
 TG:DusKing Jiang
 
