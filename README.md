@@ -2,7 +2,7 @@
 A Balancing charge extended board, designed for USB charging _FrSky Transmitter Taranis X-Lite_ radio controller.
 
 # Disclaimer
-The AF-XLiteEx project is a community project. The PCB was designed by PDW(辉光管) who belongs to AirFleetTeam and tested by volunteers. The pictures was provided by dap-i who also belongs to AirFleetTeam. The project is not affiliated with Frsky in any way.
+The AF-XLiteEx project is a community project. The PCB was designed by PDW(辉光管) who is a member of AirFleet and tested by volunteers. The pictures was provided by dap-i who is also a member of AirFleet. The project is not affiliated with Frsky in any way.
 
 Further, this is a hack. By modifying the internal wiring of Xlite, you accept all risk and responsibility. Neither Frsky, nor AirFleet, nor any of the volunteer testers shall be held liable for any damages or injuries that may occur from the installation or usage of any part of this project.
 
