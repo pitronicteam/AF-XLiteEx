@@ -33,7 +33,7 @@ THIS PROJECT AND ASSOCIATED KITS ARE PROVIDED “AS IS” AND WITHOUT ANY EXPRES
 ## Note
 The files is for personal use only,  please contact us for commercial license.
 
-For business negotiation, please contact us：
+For business cooperation, please contact us：
 
 QQ:1040730319 or email to 1040730319@qq.com 
 
